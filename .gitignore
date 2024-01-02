@@ -1,0 +1,3 @@
+*.tgz
+kafka_*
+zk-*
