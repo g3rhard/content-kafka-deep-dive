@@ -29,3 +29,7 @@
   docker exec -it content-kafka-deep-dive-zookeep1-1 bash
   kafka-topics --bootstrap-server localhost:9092 --create --topic test --describe
   ```
+
+## Links
+
+- [chadmcrowell/topic-tools.sh](https://gist.github.com/chadmcrowell/0fd333251037b1bb57e0df223b4ac90b)
